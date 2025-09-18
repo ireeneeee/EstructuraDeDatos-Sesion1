@@ -1,0 +1,29 @@
+#include <iostream>
+using namespace std;
+
+int main ( int argc, char** argv)
+{
+    char c;
+    bool test;
+    cout << "Pulse teclas numericas. Acabe pulsando ESC\n";
+    do {
+        c= getchar();
+        test = (( c>= '0') && (c<= '9'));
+        if (test)
+            cout << c<< "pulsando./n";
+    }while (c != 27);
+    return 0;
+}
+/*
+Si pulso: 
+1
+a
+7
+ESC
+La salida será: 
+Pulse teclas numericas. Acabe pulsando ESC
+1 pulsado.
+7 pulsado.
+La a no aparece porque es un número
+EL bucle acaba cuando pulso la tecla ESC
+*/
