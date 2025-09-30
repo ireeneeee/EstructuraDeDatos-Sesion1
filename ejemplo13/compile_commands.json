@@ -1,0 +1,13 @@
+[{
+		"file":	"C:\\Users\\bonil\\OneDrive\\Documents\\ejemplo13\\ejemplo13\\Persona.hpp",
+		"directory":	"C:\\Users\\bonil\\OneDrive\\Documents\\ejemplo13\\ejemplo13",
+		"command":	"clang++ -c C:\\Users\\bonil\\OneDrive\\Documents\\ejemplo13\\ejemplo13\\Persona.hpp -o C:\\Users\\bonil\\OneDrive\\Documents\\ejemplo13\\ejemplo13\\Persona.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"C:\\Users\\bonil\\OneDrive\\Documents\\ejemplo13\\ejemplo13\\Persona.cpp",
+		"directory":	"C:\\Users\\bonil\\OneDrive\\Documents\\ejemplo13\\ejemplo13",
+		"command":	"clang++ -c C:\\Users\\bonil\\OneDrive\\Documents\\ejemplo13\\ejemplo13\\Persona.cpp -o C:\\Users\\bonil\\OneDrive\\Documents\\ejemplo13\\ejemplo13\\Persona.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"C:\\Users\\bonil\\OneDrive\\Documents\\ejemplo13\\ejemplo13\\main.cpp",
+		"directory":	"C:\\Users\\bonil\\OneDrive\\Documents\\ejemplo13\\ejemplo13",
+		"command":	"clang++ -c C:\\Users\\bonil\\OneDrive\\Documents\\ejemplo13\\ejemplo13\\main.cpp -o C:\\Users\\bonil\\OneDrive\\Documents\\ejemplo13\\ejemplo13\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+	}]
